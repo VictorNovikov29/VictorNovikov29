@@ -1,5 +1,5 @@
-- 👋 Hi, I’m VictorNovikov29@gmail.com
-- 📫 My skype id is "live:.cid.45799b79b74e4bbb".
+- 👋 Hi, I’m Victor Novikov.
+- 📫 My skype id is "live:.cid.45799b79b74e4bbb" and my gmail address is "VictorNovikov29@gmail.com".
 
 <!---
 VictorNovikov29/VictorNovikov29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
